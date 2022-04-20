@@ -1,5 +1,5 @@
 
-# Tarea 2 Distribuida 😀
+# Proyecto 2. Introduccion a Sistemas Distribuidos
 
 Para realizar la instalación, descargar el proyecto, y en la carpeta raiz abrir la terminal y ejecutar las lineas de comando que estan en el archivo "bash.txt"
 
@@ -30,5 +30,3 @@ Todos los servicios se conectan a un Logger creada con Node.js, que almacena los
 Para ver todos los logs, el logger tiene expuesto el puerto 8002 una interfaz grafica para visualizarlo.
 
 Todos los servicios notifican al logger las peticiones HTTP que reciben y pudieran notificar otro tipo de información de manera rapida enviando el mensaje y el tipo de mensaje ("Error", "Info", "Warn", etc)
-
-😀😀😀😀😀😀
